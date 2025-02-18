@@ -1,9 +1,9 @@
 {
     "adNetwork":"admob",
 
-    "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
-    "admob_app_open":"ca-app-pub-3940256099942544/9257395921",
+    "admob_banner":"ca-app-pub-1091879684207619/8926358822",
+    "admob_interstitial":"ca-app-pub-1091879684207619/3482460450",
+    "admob_app_open":"ca-app-pub-1091879684207619/7650993453",
 
     "fan_banner":"1215852529268308_1215866532600241",
     "fan_interstitial":"1215852529268308_1215866089266952"
