@@ -1,10 +1,10 @@
 {
-    "adNetwork":"admob",
+    "adNetwork":"fan",
 
     "admob_banner":"ca-app-pub-1091879684207619/8926358822",
     "admob_interstitial":"ca-app-pub-1091879684207619/3482460450",
     "admob_app_open":"ca-app-pub-1091879684207619/7650993453",
 
-    "fan_banner":"1215852529268308_1215866532600241",
-    "fan_interstitial":"1215852529268308_1215866089266952"
+    "fan_banner":"2023582214776270_2029268357540989",
+    "fan_interstitial":"2023582214776270_2029268490874309"
     }
